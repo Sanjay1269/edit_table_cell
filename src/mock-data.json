@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "fullName": "sanjay kumar",
+    "address": "bangalore yelhanka",
+    "phoneNumber": "7204425653",
+    "email": "sanjay@email.com"
+  },
+  {
+    "id": 2,
+    "fullName": "chandana b v",
+    "address": "shivamoga tirthahalli",
+    "phoneNumber": "7022083425",
+    "email": "chandana@email.com"
+  },
+  {
+    "id": 3,
+    "fullName": "amith kumar",
+    "address": "kannur",
+    "phoneNumber": "9886658400",
+    "email": "amith@email.com"
+  },
+  {
+    "id": 4,
+    "fullName": "kiran",
+    "address": "belgavi city",
+    "phoneNumber": "9999999999",
+    "email": "kiran@email.com"
+  },
+  {
+    "id": 5,
+    "fullName": "faiz",
+    "address": "kolkata",
+    "phoneNumber": "9096552079",
+    "email": "faiz@email.com"
+  }
+]
